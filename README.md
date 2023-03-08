@@ -1,0 +1,3 @@
+# mapty project
+
+Tracks exercises
